@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+
+
+@theme {
+  --font-raleway: "Raleway", sans-serif;
+  --font-nunito: "Nunito Sans", sans-serif;
+}
+
+/* Register font in Tailwind (using @theme syntax - Tailwind v4 way) */
+@theme {
+  --font-montserrat: "Montserrat", sans-serif;
+}
